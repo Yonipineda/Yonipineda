@@ -1,4 +1,4 @@
-# Data-Science student at [Lambda School](https://lambdaschool.com/)
+# Data-Science Student at [Lambda School](https://lambdaschool.com/)
 
 ## Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
