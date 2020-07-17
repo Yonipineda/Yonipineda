@@ -17,17 +17,20 @@
 ## Portfolio Website 
   - [My Website](https://yonipineda.github.io/)
 
-<!--
-**Yonipineda/Yonipineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Yoni's github stats](https://github-readme-stats.vercel.app/api?username=Yonipineda)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Email Link](yonipineda1010@icloud.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Yoni Pineda
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YonayYo)](https://twitter.com/YonayYo)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoni-pineda-8a43841a3/)](https://www.linkedin.com/in/yoni-pineda-8a43841a3/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yonipineda1010@icloud.com)](mailto:yonipineda1010@icloud.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+-  **Learning :** Data-Science :zap: | Open-Source :fire:	
+-  **Languages :** Python, SQL, JavaScript
+-  **Hobbies :** Concept Artwork and Gaming :headphones:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true)
+
