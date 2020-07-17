@@ -1,4 +1,4 @@
-## Yoni Pineda: Data-Scientist | Software Engineer 
+## Yoni Pineda
 [![Twitter Badge](https://img.shields.io/badge/-YonayYo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YonayYo)](https://twitter.com/YonayYo)  [![Linkedin Badge](https://img.shields.io/badge/-YoniPineda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoni-pineda-8a43841a3/)](https://www.linkedin.com/in/yoni-pineda-8a43841a3/) [![Gmail Badge](https://img.shields.io/badge/-yonipineda1010@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yonipineda1010@icloud.com)](mailto:yonipineda1010@icloud.com)
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
