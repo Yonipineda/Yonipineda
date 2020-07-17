@@ -5,7 +5,12 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true">
 
---- 
+### About
+
+-  **Learning :** Data-Science :zap: | Software Engineering :fire:	
+-  **Languages :** Python, SQL, JavaScript
+-  **Hobbies :** Concept Artwork and Gaming :headphones:
+
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
   - [Conway's Game of Life](https://yonipineda.github.io/projects/GameofLife/)
@@ -16,8 +21,3 @@
 ### Portfolio Website 
   - [My Website](https://yonipineda.github.io/)
 
-### About
-
--  **Learning :** Data-Science :zap: | Software Engineering :fire:	
--  **Languages :** Python, SQL, JavaScript
--  **Hobbies :** Concept Artwork and Gaming :headphones:
