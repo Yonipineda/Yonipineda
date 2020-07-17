@@ -9,8 +9,9 @@
 
 
 
--  **Learning :** Data-Science :zap: | Software Engineering :fire:	
+-  **Learning :** Data-Science | Software Engineering
 -  **Languages :** Python, SQL, JavaScript
+-  **Frameworks :** Flask, FastAPI
 
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
