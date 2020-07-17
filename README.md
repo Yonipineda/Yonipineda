@@ -9,7 +9,6 @@
 
 -  **Learning :** Data-Science :zap: | Software Engineering :fire:	
 -  **Languages :** Python, SQL, JavaScript
--  **Hobbies :** Concept Artwork and Gaming :headphones:
 
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
