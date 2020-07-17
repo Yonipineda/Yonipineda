@@ -5,7 +5,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true">
 
-
+--- 
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
   - [Conway's Game of Life](https://yonipineda.github.io/projects/GameofLife/)
