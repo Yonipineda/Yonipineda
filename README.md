@@ -20,10 +20,12 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+## About
 
 -  **Learning :** Data-Science :zap: | Open-Source :fire:	
 -  **Languages :** Python, SQL, JavaScript
 -  **Hobbies :** Concept Artwork and Gaming :headphones:
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true)
