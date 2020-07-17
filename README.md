@@ -11,7 +11,7 @@
 
 -  **Learning :** Data-Science | Software Engineering
 -  **Languages :** Python, SQL, JavaScript
--  **Frameworks :** Flask, FastAPI
+-  **Frameworks :** Flask, FastAPI, Django
 
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
