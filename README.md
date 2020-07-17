@@ -22,7 +22,7 @@
 
 
 ### Yoni Pineda
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YonayYo)](https://twitter.com/YonayYo)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoni-pineda-8a43841a3/)](https://www.linkedin.com/in/yoni-pineda-8a43841a3/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yonipineda1010@icloud.com)](mailto:yonipineda1010@icloud.com)
+[![Twitter Badge](https://img.shields.io/badge/-YonayYo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YonayYo)](https://twitter.com/YonayYo)  [![Linkedin Badge](https://img.shields.io/badge/-Yoni Pineda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoni-pineda-8a43841a3/)](https://www.linkedin.com/in/yoni-pineda-8a43841a3/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yonipineda1010@icloud.com)](mailto:yonipineda1010@icloud.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
