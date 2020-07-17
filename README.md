@@ -3,6 +3,9 @@
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true">
+
+
 ### Projects 
   - [MyDish](https://yonipineda.github.io/projects/MyDish/)
   - [Conway's Game of Life](https://yonipineda.github.io/projects/GameofLife/)
@@ -18,5 +21,3 @@
 -  **Learning :** Data-Science :zap: | Software Engineering :fire:	
 -  **Languages :** Python, SQL, JavaScript
 -  **Hobbies :** Concept Artwork and Gaming :headphones:
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true">
