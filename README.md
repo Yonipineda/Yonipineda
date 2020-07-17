@@ -26,4 +26,4 @@
 -  **Languages :** Python, SQL, JavaScript
 -  **Hobbies :** Concept Artwork and Gaming :headphones:
 
-[![Yoni's github stats](https://github-readme-stats.vercel.app/api?username=Yonipineda)]
+![github stats](https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true)
