@@ -14,6 +14,3 @@
   - [Predicting Type of Crime In Montgomery County, MD](https://medium.com/@yonipineda1010/predicting-type-of-crime-in-montgomery-county-md-26a4b375948)
   
 
-### Stats 
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Yonipineda&show_icons=true">
