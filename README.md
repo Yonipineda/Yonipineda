@@ -3,7 +3,6 @@
 
 <img align='right' src='https://66.media.tumblr.com/f2ce3f4c4c0c61558f083e07824ef395/tumblr_n9ffty70Pb1s9ab4to1_400.gif' width='252"'>
 <img align='left' src='https://pixlanim8r.files.wordpress.com/2014/03/ken_idle_final_g.gif' width='200"'>
-<img align='center' src='https://pixlanim8r.wordpress.com/wp-content/uploads/2014/03/reader_fidget_all.gif' width='200"'>
 
 
 
